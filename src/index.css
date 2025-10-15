@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+:root {
+    --btn-primary-color: #6a329f;
+    --btn-text: #ffffff;
+  }
+

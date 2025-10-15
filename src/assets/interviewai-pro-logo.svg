@@ -1,0 +1,7 @@
+<svg width="118" height="40" viewBox="0 0 118 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="118" height="40" rx="4" fill="#6a329f"/>
+  <text x="10" y="25" font-family="Poppins, sans-serif" font-size="14" font-weight="600" fill="white">InterviewAI</text>
+  <text x="10" y="38" font-family="Poppins, sans-serif" font-size="10" font-weight="400" fill="#e0c3fc">Pro</text>
+  <circle cx="95" cy="20" r="8" fill="#ffffff" opacity="0.2"/>
+  <path d="M90 20 L93 23 L99 17" stroke="white" stroke-width="2" fill="none"/>
+</svg>
